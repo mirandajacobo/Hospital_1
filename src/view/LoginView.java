@@ -1,4 +1,4 @@
-package Hospital.view;
+package view;
 
 public class LoginView {
 }
